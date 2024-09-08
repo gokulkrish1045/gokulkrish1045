@@ -13,28 +13,32 @@
 ## 💼 Real-Time Projects
 
 ### 1. Coffee Sales Dashboard (MS Excel)
-![Coffee Sales Dashboard](assets/coffeeOrdersData.xlsx -.png)
+
+![Coffee Sales Dashboard](assets/coffeeOrdersData.xlsx%20-.png)
 
 Created an Excel dashboard to track sales KPIs dynamically, visualizing revenue, products, and regional performance.
 
 ---
 
 ### 2. Plant.Co Sales Data Visualization (Power BI)
-![Plant.Co Sales Dashboard](assets/plants.co powerbi.png)
+
+![Plant.Co Sales Dashboard](assets/plants.co%20powerbi.png)
 
 Developed an interactive Power BI dashboard to visualize sales performance metrics and trends.
 
 ---
 
 ### 3. Melbourne Housing Market Analysis (Power BI)
-![Melbourne Housing Dashboard](assets/MELBOURNE HOUSE ANALYSIS DB PBI 2.png)
+
+![Melbourne Housing Dashboard](assets/MELBOURNE%20HOUSE%20ANALYSIS%20DB%20PBI%202.png)
 
 Analyzed housing trends and pricing patterns in Melbourne, showcasing insights through advanced data visualization.
 
 ---
 
 ### 4. London Bike Rides Analysis (Python)
-![London Bike Rides Analysis](assets/python cycle .png)
+
+![London Bike Rides Analysis](assets/python%20cycle%20.png)
 
 Performed data manipulation and statistical analysis on bike ride patterns using Python libraries (Pandas, Matplotlib).
 
