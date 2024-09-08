@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [GokulaKrishnan ]!
+# 👋 Hello, I'm GokulaKrishnan !
 
 🚀 Aspiring **Data Analyst** with expertise in **MySQL, Python, MS Excel, and Power BI**, passionate about transforming raw data into meaningful insights. 
 
