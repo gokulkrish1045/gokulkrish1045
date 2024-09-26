@@ -3,7 +3,7 @@
 🚀 Aspiring **Data Analyst** with expertise in **MySQL, Python, MS Excel, and Power BI**, passionate about transforming raw data into meaningful insights. 
 
 ## 🔧 Technologies & Tools
-- 🐍 Python (Pandas, NumPy, Matplotlib)
+- 🐍 Python (Pandas, NumPy, Tensorflow, Pytorch, Matplotlib, Seaborn)
 - 🗄️ MySQL
 - 📊 Power BI
 - 📈 MS Excel (Advanced)
@@ -12,7 +12,15 @@
 
 ## 💼 Real-Time Projects
 
-### 1. Coffee Sales Dashboard (MS Excel)
+### 1. CNN LSTM Image Caption Generator (Python)
+
+![Image Caption Generator ](assets/image%20caption%20result%20.png)
+
+An image caption generation project that utilizes deep learning models (CNN and RNN) to generate descriptive captions for images from the Flickr dataset
+
+---
+
+### 2. Coffee Sales Dashboard (MS Excel)
 
 ![Coffee Sales Dashboard](assets/coffeeOrdersData.xlsx%20-.png)
 
@@ -20,7 +28,7 @@ Created an Excel dashboard to track sales KPIs dynamically, visualizing revenue,
 
 ---
 
-### 2. Plant.Co Sales Data Visualization (Power BI)
+### 3. Plant.Co Sales Data Visualization (Power BI)
 
 ![Plant.Co Sales Dashboard](assets/plants.co%20powerbi.png)
 
@@ -28,7 +36,7 @@ Developed an interactive Power BI dashboard to visualize sales performance metri
 
 ---
 
-### 3. Melbourne Housing Market Analysis (Power BI)
+### 4. Melbourne Housing Market Analysis (Power BI)
 
 ![Melbourne Housing Dashboard](assets/MELBOURNE%20HOUSE%20ANALYSIS%20DB%20PBI%202.png)
 
@@ -36,11 +44,19 @@ Analyzed housing trends and pricing patterns in Melbourne, showcasing insights t
 
 ---
 
-### 4. London Bike Rides Analysis (Python)
+### 5. London Bike Rides Analysis (Python)
 
 ![London Bike Rides Analysis](assets/python%20cycle%20.png)
 
 Performed data manipulation and statistical analysis on bike ride patterns using Python libraries (Pandas, Matplotlib).
+
+---
+
+### 6. Netflix Movies and Webseries Analysis (My SQL)
+
+![Netflix Movies Analysis](assets/sql.jpeg)
+
+Performed data manipulation and statistical analysis on Netflix Movies and Webseries Database
 
 ---
 
