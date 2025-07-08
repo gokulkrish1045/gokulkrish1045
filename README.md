@@ -24,7 +24,9 @@ CHAMPION MODEL XGBOOST CONFUSION MATRIX:
 ![Image Caption Generator ](assets/xg_boost_CM.png)
 
 
+
 A data-driven churn prediction project analyzing user engagement patterns from a Waze-like navigation app to identify high-risk users using SQL and Python.
+
 ---
 ### 2. CNN LSTM Image Caption Generator (Python)
 
@@ -33,9 +35,21 @@ A data-driven churn prediction project analyzing user engagement patterns from a
 An image caption generation project that utilizes deep learning models (CNN and RNN) to generate descriptive captions for images from the Flickr dataset
 
 ---
-### 3. TIK-TOK Opinion vs. Claim PREDICTION  (Python)
+### 3. TIK-TOK Video Opinion vs. Claim PREDICTION  (Python)
 
-![Image Caption Generator ](assets/image%20caption%20result%20.png)
+![random forest](assets/Tik_Tok_RF_CM.png)
+
+The champion model is Random forest :
+
+The upper-left quadrant displays the number of true negatives: the number of opinions that the model accurately classified as so.
+
+The upper-right quadrant displays the number of false positives: the number of opinions that the model misclassified as claims.
+
+The lower-left quadrant displays the number of false negatives: the number of claims that the model misclassified as opinions.
+
+The lower-right quadrant displays the number of true positives: the number of claims that the model accurately classified as so.
+
+
 
 Built a machine learning model to classify TikTok user-generated content as opinions or factual claims using natural language processing and supervised learning techniques.
 
