@@ -17,9 +17,14 @@
 
 MODEL SELECTION FOR TREE CLASSIFICATION:
 ![Image Caption Generator ](assets/model_selection_tree.png)
+
+
 CHAMPION MODEL XGBOOST CONFUSION MATRIX:
+
 ![Image Caption Generator ](assets/xg_boost_CM.png)
 
+
+A data-driven churn prediction project analyzing user engagement patterns from a Waze-like navigation app to identify high-risk users using SQL and Python.
 ---
 ### 2. CNN LSTM Image Caption Generator (Python)
 
@@ -28,9 +33,11 @@ CHAMPION MODEL XGBOOST CONFUSION MATRIX:
 An image caption generation project that utilizes deep learning models (CNN and RNN) to generate descriptive captions for images from the Flickr dataset
 
 ---
-### 3. AUTOMATIDATA TAXI FARE PREDICTION  (Python)
+### 3. TIK-TOK Opinion vs. Claim PREDICTION  (Python)
 
 ![Image Caption Generator ](assets/image%20caption%20result%20.png)
+
+Built a machine learning model to classify TikTok user-generated content as opinions or factual claims using natural language processing and supervised learning techniques.
 
 ---
 ### 4. Coffee Sales Dashboard (MS Excel)
