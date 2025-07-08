@@ -9,18 +9,31 @@
 - 📈 MS Excel (Advanced)
 - 🔎 Data Cleaning & Analysis
 - 📉 Data Visualization
+- ⚙️ Feature Engineering , Hypothesis Testing , ML Model Building
 
 ## 💼 Real-Time Projects
 
-### 1. CNN LSTM Image Caption Generator (Python)
+### 1. WAZE Customer Churn Prediction Using ML models(Python,sklearn,logistic_regression,Tree_classification)
+
+MODEL SELECTION FOR TREE CLASSIFICATION:
+![Image Caption Generator ](assets/model_selection_tree.png)
+CHAMPION MODEL XGBOOST CONFUSION MATRIX:
+![Image Caption Generator ](assets/xg_boost_CM.png)
+
+---
+### 2. CNN LSTM Image Caption Generator (Python)
 
 ![Image Caption Generator ](assets/image%20caption%20result%20.png)
 
 An image caption generation project that utilizes deep learning models (CNN and RNN) to generate descriptive captions for images from the Flickr dataset
 
 ---
+### 3. AUTOMATIDATA TAXI FARE PREDICTION  (Python)
 
-### 2. Coffee Sales Dashboard (MS Excel)
+![Image Caption Generator ](assets/image%20caption%20result%20.png)
+
+---
+### 4. Coffee Sales Dashboard (MS Excel)
 
 ![Coffee Sales Dashboard](assets/coffeeOrdersData.xlsx%20-.png)
 
@@ -28,7 +41,7 @@ Created an Excel dashboard to track sales KPIs dynamically, visualizing revenue,
 
 ---
 
-### 3. Plant.Co Sales Data Visualization (Power BI)
+### 5. Plant.Co Sales Data Visualization (Power BI)
 
 ![Plant.Co Sales Dashboard](assets/plants.co%20powerbi.png)
 
@@ -36,7 +49,7 @@ Developed an interactive Power BI dashboard to visualize sales performance metri
 
 ---
 
-### 4. Melbourne Housing Market Analysis (Power BI)
+### 6. Melbourne Housing Market Analysis (Power BI)
 
 ![Melbourne Housing Dashboard](assets/MELBOURNE%20HOUSE%20ANALYSIS%20DB%20PBI%202.png)
 
@@ -44,7 +57,7 @@ Analyzed housing trends and pricing patterns in Melbourne, showcasing insights t
 
 ---
 
-### 5. London Bike Rides Analysis (Python)
+### 7. London Bike Rides Analysis (Python)
 
 ![London Bike Rides Analysis](assets/python%20cycle%20.png)
 
@@ -52,9 +65,9 @@ Performed data manipulation and statistical analysis on bike ride patterns using
 
 ---
 
-### 6. Netflix Movies and Webseries Analysis (My SQL)
+### 8. Netflix Movies and Webseries Analysis (My SQL)
 
-![Netflix Movies Analysis](assets/sql.jpeg)
+![Netflix Movies Analysis](assets/logo.png)
 
 Performed data manipulation and statistical analysis on Netflix Movies and Webseries Database
 
@@ -66,7 +79,7 @@ Performed data manipulation and statistical analysis on Netflix Movies and Webse
 - 🔄 Contributing to open-source data analytics projects
 
 ## 📫 Let’s Connect!
-- [LinkedIn](https://www.linkedin.com/in/gokula-krishnan-s-70a824212) 
+- [LinkedIn](www.linkedin.com/in/gokula-krishnan-senthilkumar-70a824212) 
 - [Portfolio Website](https://gokulkrish1045.github.io/goku1045/)
 - 📧 Email: gokulkri1045@gmail.com
 
