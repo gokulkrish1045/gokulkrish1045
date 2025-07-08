@@ -56,7 +56,7 @@ Built a machine learning model to classify TikTok user-generated content as opin
 ---
 ### 4. Coffee Sales Dashboard (MS Excel)
 
-![Coffee Sales Dashboard](assets/coffeeOrdersData.xlsx%20-.png)
+![Coffee Sales Dashboard](assets/Coffee_Viz.gif)
 
 Created an Excel dashboard to track sales KPIs dynamically, visualizing revenue, products, and regional performance.
 
@@ -80,7 +80,7 @@ Analyzed housing trends and pricing patterns in Melbourne, showcasing insights t
 
 ### 7. London Bike Rides Analysis (Python)
 
-![London Bike Rides Analysis](assets/python%20cycle%20.png)
+![London Bike Rides Analysis](assets/London_Viz.gif)
 
 Performed data manipulation and statistical analysis on bike ride patterns using Python libraries (Pandas, Matplotlib).
 
